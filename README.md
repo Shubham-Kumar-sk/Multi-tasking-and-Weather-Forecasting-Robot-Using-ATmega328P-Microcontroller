@@ -69,3 +69,6 @@ It can be used for any shopping mall, as well as home purpose to carry and reach
 2. Battery runtime up to 1 hour only ( if use 2 × 3.7V battery)
 3. Hardware components may get damaged due to over usage 
 4. Due to Bluetooth modules there is latency.
+
+#code
+![image](https://github.com/user-attachments/assets/13a1bb4d-f3e4-48bf-aeea-bfba18c92044)
