@@ -89,7 +89,7 @@ By defining a function as compareDistance() we have inserted our logical stateme
 ![image](https://github.com/user-attachments/assets/3807de9e-e7c0-4343-8299-bb5f687d3095)
 Last of all defined 5 functions as forward(),backward(),turnRight(),turnLeft() and stop() for controlling the motors as requires.
 
-#Instructions:
+# Instructions:
 I usually prefer PCB Design rather than Breadboard and wires. Cause of its compactness and durability. After connecting according to the circuit first upload the Arduino Nano code to Arduino Nano. Info - you should install the DHT11 library and liquidcrystal.h in your Arduino IDE Software. Then the LCD display should show the current humidity and temperature. Also the flame sensor should react with the buzzer while it detects fire. The next step is to upload the Arduino uno.ino code to Arduino uno. Remember to plug out the RX,TX pin of the HC05 while uploading the code. Don't connect the Vcc of the HC05 from Arduino 5v pin, give a seperate power supply of 5v orelse when your battery will be at die stage it may not work properly and will get shutdown again and again.
 
 # Disclaimer:
